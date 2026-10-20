@@ -1,3 +1,4 @@
+
 {
   "name": "fitforge-ai",
   "private": true,
@@ -16,5 +17,8 @@
     "react-dom": "latest",
     "lucide-react": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
 }
